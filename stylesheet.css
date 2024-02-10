@@ -1,0 +1,11 @@
+body{
+  background-image: url("cloud-blue-sky_1232-3108.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  /* Filter properties */
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px); */
+  /* Additional properties to prevent blurring of text */
+  /* backdrop-filter: blur(8px); */
+}
